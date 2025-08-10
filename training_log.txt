@@ -1,0 +1,2 @@
+Dataset shape: (500, 10)
+Model accuracy: 0.81
